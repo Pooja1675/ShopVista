@@ -1,0 +1,7 @@
+node_modules/
+.env
+npm-debug.log
+.DS_Store
+
+# We DO want to commit the DB in this case so the remote server has our seeded data, but normally we'd ignore it:
+# shopvista.db
